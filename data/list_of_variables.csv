@@ -1,0 +1,19 @@
+﻿variable_code,variable_name
+wdi_gdpcapcur,GDP per capita (current US dollar)
+eu_demd2jant,"Population at 1st January, Total"
+bti_ds,Democracy status
+cpds_tg,Type of government
+fh_feb,Freedom of expression
+hum_satdem,Satisfaction with Democracy Index
+lis_gini,Gini coefficient
+bti_ep,Economic performance
+bti_mes,Economy status
+fi_index,Economic freedom of the world index
+who_halef,"Healthy Life Expectancy, Female (Years)"
+who_halem,"Healthy Life Expectancy, Male (Years) "
+who_halet,"Healthy Life Expectancy, Total (Years) "
+gfs_heal,Expenditure on health (% of total gen. gov. exp.) 
+wdi_chexppgdp,Current health expenditure (% of GDP)
+who_homt,"Homicide Rate, Total"
+who_suit,"Suicide Rate (per 100,000 population), Total"
+wvs_hap,Feeling of happiness
